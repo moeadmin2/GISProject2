@@ -3,7 +3,7 @@ title: "Overview"
 editor: visual
 ---
 
-## Overview
+## Introduction
 
 In this project, we are given two major themes and sub-themes. Detailed description of this project is available on [this page](https://smt201-ay2022-23t1.netlify.app/gisproject). Land cover classification is a common application area of digital image analysis.
 
